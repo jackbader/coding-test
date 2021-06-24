@@ -18,7 +18,7 @@ Using index.html and style.css files, make a page that has a header bar, body wi
 ___
 ## Challenge 2. Javascript Basics
 In main.js create a function that takes an array argument. The array will contain objects of the form 
-{first: "Amanda", last: "Byron", group: "Sales"}.
+{first: "Jack", last: "Bader", group: "Engineering"}.
 The function should return an object that organizes each entry by group, and combines the name, making sure to put the last name first if 'nameOrder' is "reverse". The example below shows a possible input to the function, but the function should be able to handle any alpha-numeric group names.
 
 
